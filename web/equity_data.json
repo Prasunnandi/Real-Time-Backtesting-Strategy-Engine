@@ -1,0 +1,586 @@
+{
+  "metrics": {
+    "initial_capital": 100000.0,
+    "final_equity": 100000.32,
+    "total_return_pct": 0.0,
+    "annualized_volatility_pct": 5.72,
+    "sharpe_ratio": -0.657,
+    "sortino_ratio": -0.892,
+    "calmar_ratio": 0.0,
+    "max_drawdown_pct": 6.94,
+    "total_trades": 8,
+    "winning_trades": 4,
+    "losing_trades": 4,
+    "win_rate_pct": 50.0,
+    "profit_factor": 1.0,
+    "total_commissions": 18.18
+  },
+  "equity_curve": [
+    {
+      "timestamp": "2023-08-01",
+      "equity": 105443.27,
+      "cash": 72242.87,
+      "holdings_val": 33200.4,
+      "drawdown_pct": 1.877
+    },
+    {
+      "timestamp": "2023-08-01",
+      "equity": 105443.27,
+      "cash": 72242.87,
+      "holdings_val": 33200.4,
+      "drawdown_pct": 1.877
+    },
+    {
+      "timestamp": "2023-08-02",
+      "equity": 104505.95,
+      "cash": 72242.87,
+      "holdings_val": 32263.08,
+      "drawdown_pct": 2.749
+    },
+    {
+      "timestamp": "2023-08-02",
+      "equity": 104505.95,
+      "cash": 72242.87,
+      "holdings_val": 32263.08,
+      "drawdown_pct": 2.749
+    },
+    {
+      "timestamp": "2023-08-03",
+      "equity": 104630.78,
+      "cash": 72242.87,
+      "holdings_val": 32387.91,
+      "drawdown_pct": 2.633
+    },
+    {
+      "timestamp": "2023-08-03",
+      "equity": 104630.78,
+      "cash": 72242.87,
+      "holdings_val": 32387.91,
+      "drawdown_pct": 2.633
+    },
+    {
+      "timestamp": "2023-08-04",
+      "equity": 104678.96,
+      "cash": 72242.87,
+      "holdings_val": 32436.09,
+      "drawdown_pct": 2.588
+    },
+    {
+      "timestamp": "2023-08-04",
+      "equity": 104678.96,
+      "cash": 72242.87,
+      "holdings_val": 32436.09,
+      "drawdown_pct": 2.588
+    },
+    {
+      "timestamp": "2023-08-07",
+      "equity": 105160.76,
+      "cash": 72242.87,
+      "holdings_val": 32917.89,
+      "drawdown_pct": 2.14
+    },
+    {
+      "timestamp": "2023-08-07",
+      "equity": 105160.76,
+      "cash": 72242.87,
+      "holdings_val": 32917.89,
+      "drawdown_pct": 2.14
+    },
+    {
+      "timestamp": "2023-08-08",
+      "equity": 105018.41,
+      "cash": 72242.87,
+      "holdings_val": 32775.54,
+      "drawdown_pct": 2.272
+    },
+    {
+      "timestamp": "2023-08-08",
+      "equity": 105018.41,
+      "cash": 72242.87,
+      "holdings_val": 32775.54,
+      "drawdown_pct": 2.272
+    },
+    {
+      "timestamp": "2023-08-09",
+      "equity": 105480.5,
+      "cash": 72242.87,
+      "holdings_val": 33237.63,
+      "drawdown_pct": 1.842
+    },
+    {
+      "timestamp": "2023-08-09",
+      "equity": 105480.5,
+      "cash": 72242.87,
+      "holdings_val": 33237.63,
+      "drawdown_pct": 1.842
+    },
+    {
+      "timestamp": "2023-08-10",
+      "equity": 105635.99,
+      "cash": 72242.87,
+      "holdings_val": 33393.12,
+      "drawdown_pct": 1.697
+    },
+    {
+      "timestamp": "2023-08-10",
+      "equity": 105635.99,
+      "cash": 72242.87,
+      "holdings_val": 33393.12,
+      "drawdown_pct": 1.697
+    },
+    {
+      "timestamp": "2023-08-11",
+      "equity": 104952.71,
+      "cash": 72242.87,
+      "holdings_val": 32709.84,
+      "drawdown_pct": 2.333
+    },
+    {
+      "timestamp": "2023-08-11",
+      "equity": 104952.71,
+      "cash": 72242.87,
+      "holdings_val": 32709.84,
+      "drawdown_pct": 2.333
+    },
+    {
+      "timestamp": "2023-08-14",
+      "equity": 104061.38,
+      "cash": 72242.87,
+      "holdings_val": 31818.51,
+      "drawdown_pct": 3.163
+    },
+    {
+      "timestamp": "2023-08-14",
+      "equity": 104061.38,
+      "cash": 72242.87,
+      "holdings_val": 31818.51,
+      "drawdown_pct": 3.163
+    },
+    {
+      "timestamp": "2023-08-15",
+      "equity": 103128.44,
+      "cash": 72242.87,
+      "holdings_val": 30885.57,
+      "drawdown_pct": 4.031
+    },
+    {
+      "timestamp": "2023-08-15",
+      "equity": 103128.44,
+      "cash": 72242.87,
+      "holdings_val": 30885.57,
+      "drawdown_pct": 4.031
+    },
+    {
+      "timestamp": "2023-08-16",
+      "equity": 103119.62,
+      "cash": 103119.62,
+      "holdings_val": 0.0,
+      "drawdown_pct": 4.039
+    },
+    {
+      "timestamp": "2023-08-16",
+      "equity": 103119.62,
+      "cash": 103119.62,
+      "holdings_val": 0.0,
+      "drawdown_pct": 4.039
+    },
+    {
+      "timestamp": "2023-08-17",
+      "equity": 103119.62,
+      "cash": 103119.62,
+      "holdings_val": 0.0,
+      "drawdown_pct": 4.039
+    },
+    {
+      "timestamp": "2023-08-17",
+      "equity": 103119.62,
+      "cash": 103119.62,
+      "holdings_val": 0.0,
+      "drawdown_pct": 4.039
+    },
+    {
+      "timestamp": "2023-08-18",
+      "equity": 103119.62,
+      "cash": 103119.62,
+      "holdings_val": 0.0,
+      "drawdown_pct": 4.039
+    },
+    {
+      "timestamp": "2023-08-18",
+      "equity": 103119.62,
+      "cash": 103119.62,
+      "holdings_val": 0.0,
+      "drawdown_pct": 4.039
+    },
+    {
+      "timestamp": "2023-08-21",
+      "equity": 103353.15,
+      "cash": 62068.27,
+      "holdings_val": 41284.88,
+      "drawdown_pct": 3.822
+    },
+    {
+      "timestamp": "2023-08-21",
+      "equity": 103353.15,
+      "cash": 62068.27,
+      "holdings_val": 41284.88,
+      "drawdown_pct": 3.822
+    },
+    {
+      "timestamp": "2023-08-22",
+      "equity": 103283.08,
+      "cash": 62068.27,
+      "holdings_val": 41214.81,
+      "drawdown_pct": 3.887
+    },
+    {
+      "timestamp": "2023-08-22",
+      "equity": 103283.08,
+      "cash": 62068.27,
+      "holdings_val": 41214.81,
+      "drawdown_pct": 3.887
+    },
+    {
+      "timestamp": "2023-08-23",
+      "equity": 103768.11,
+      "cash": 62068.27,
+      "holdings_val": 41699.84,
+      "drawdown_pct": 3.436
+    },
+    {
+      "timestamp": "2023-08-23",
+      "equity": 103768.11,
+      "cash": 62068.27,
+      "holdings_val": 41699.84,
+      "drawdown_pct": 3.436
+    },
+    {
+      "timestamp": "2023-08-24",
+      "equity": 103151.13,
+      "cash": 62068.27,
+      "holdings_val": 41082.86,
+      "drawdown_pct": 4.01
+    },
+    {
+      "timestamp": "2023-08-24",
+      "equity": 103151.13,
+      "cash": 62068.27,
+      "holdings_val": 41082.86,
+      "drawdown_pct": 4.01
+    },
+    {
+      "timestamp": "2023-08-25",
+      "equity": 102667.92,
+      "cash": 62068.27,
+      "holdings_val": 40599.65,
+      "drawdown_pct": 4.46
+    },
+    {
+      "timestamp": "2023-08-25",
+      "equity": 102667.92,
+      "cash": 62068.27,
+      "holdings_val": 40599.65,
+      "drawdown_pct": 4.46
+    },
+    {
+      "timestamp": "2023-08-28",
+      "equity": 101718.79,
+      "cash": 62068.27,
+      "holdings_val": 39650.52,
+      "drawdown_pct": 5.343
+    },
+    {
+      "timestamp": "2023-08-28",
+      "equity": 101718.79,
+      "cash": 62068.27,
+      "holdings_val": 39650.52,
+      "drawdown_pct": 5.343
+    },
+    {
+      "timestamp": "2023-08-29",
+      "equity": 101707.88,
+      "cash": 101707.88,
+      "holdings_val": 0.0,
+      "drawdown_pct": 5.353
+    },
+    {
+      "timestamp": "2023-08-29",
+      "equity": 101707.88,
+      "cash": 101707.88,
+      "holdings_val": 0.0,
+      "drawdown_pct": 5.353
+    },
+    {
+      "timestamp": "2023-08-30",
+      "equity": 101707.88,
+      "cash": 101707.88,
+      "holdings_val": 0.0,
+      "drawdown_pct": 5.353
+    },
+    {
+      "timestamp": "2023-08-30",
+      "equity": 101707.88,
+      "cash": 101707.88,
+      "holdings_val": 0.0,
+      "drawdown_pct": 5.353
+    },
+    {
+      "timestamp": "2023-08-31",
+      "equity": 101707.88,
+      "cash": 101707.88,
+      "holdings_val": 0.0,
+      "drawdown_pct": 5.353
+    },
+    {
+      "timestamp": "2023-08-31",
+      "equity": 101707.88,
+      "cash": 101707.88,
+      "holdings_val": 0.0,
+      "drawdown_pct": 5.353
+    },
+    {
+      "timestamp": "2023-09-01",
+      "equity": 101707.88,
+      "cash": 101707.88,
+      "holdings_val": 0.0,
+      "drawdown_pct": 5.353
+    },
+    {
+      "timestamp": "2023-09-01",
+      "equity": 101707.88,
+      "cash": 101707.88,
+      "holdings_val": 0.0,
+      "drawdown_pct": 5.353
+    },
+    {
+      "timestamp": "2023-09-04",
+      "equity": 101707.88,
+      "cash": 101707.88,
+      "holdings_val": 0.0,
+      "drawdown_pct": 5.353
+    },
+    {
+      "timestamp": "2023-09-04",
+      "equity": 101707.88,
+      "cash": 101707.88,
+      "holdings_val": 0.0,
+      "drawdown_pct": 5.353
+    },
+    {
+      "timestamp": "2023-09-05",
+      "equity": 101707.88,
+      "cash": 101707.88,
+      "holdings_val": 0.0,
+      "drawdown_pct": 5.353
+    },
+    {
+      "timestamp": "2023-09-05",
+      "equity": 101707.88,
+      "cash": 101707.88,
+      "holdings_val": 0.0,
+      "drawdown_pct": 5.353
+    },
+    {
+      "timestamp": "2023-09-06",
+      "equity": 101888.18,
+      "cash": 61097.8,
+      "holdings_val": 40790.38,
+      "drawdown_pct": 5.185
+    },
+    {
+      "timestamp": "2023-09-06",
+      "equity": 101888.18,
+      "cash": 61097.8,
+      "holdings_val": 40790.38,
+      "drawdown_pct": 5.185
+    },
+    {
+      "timestamp": "2023-09-07",
+      "equity": 101808.72,
+      "cash": 61097.8,
+      "holdings_val": 40710.92,
+      "drawdown_pct": 5.259
+    },
+    {
+      "timestamp": "2023-09-07",
+      "equity": 101808.72,
+      "cash": 61097.8,
+      "holdings_val": 40710.92,
+      "drawdown_pct": 5.259
+    },
+    {
+      "timestamp": "2023-09-08",
+      "equity": 100945.62,
+      "cash": 61097.8,
+      "holdings_val": 39847.82,
+      "drawdown_pct": 6.062
+    },
+    {
+      "timestamp": "2023-09-08",
+      "equity": 100945.62,
+      "cash": 61097.8,
+      "holdings_val": 39847.82,
+      "drawdown_pct": 6.062
+    },
+    {
+      "timestamp": "2023-09-11",
+      "equity": 100000.32,
+      "cash": 61097.8,
+      "holdings_val": 38902.52,
+      "drawdown_pct": 6.942
+    },
+    {
+      "timestamp": "2023-09-11",
+      "equity": 100000.32,
+      "cash": 61097.8,
+      "holdings_val": 38902.52,
+      "drawdown_pct": 6.942
+    }
+  ],
+  "trades": [
+    {
+      "timestamp": "2023-01-04",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "shares": 308,
+      "price": 129.6024,
+      "commission": 1.54,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2023-02-01",
+      "symbol": "SPY",
+      "action": "BUY",
+      "shares": 60,
+      "price": 398.9897,
+      "commission": 1.0,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2023-02-07",
+      "symbol": "AAPL",
+      "action": "SELL",
+      "shares": 308,
+      "price": 129.7376,
+      "commission": 1.54,
+      "pnl": 40.1
+    },
+    {
+      "timestamp": "2023-02-14",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "shares": 218,
+      "price": 139.2948,
+      "commission": 1.09,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2023-03-30",
+      "symbol": "AAPL",
+      "action": "SELL",
+      "shares": 218,
+      "price": 143.1842,
+      "commission": 1.09,
+      "pnl": 846.8
+    },
+    {
+      "timestamp": "2023-05-25",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "shares": 219,
+      "price": 140.5451,
+      "commission": 1.09,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2023-06-01",
+      "symbol": "SPY",
+      "action": "SELL",
+      "shares": 60,
+      "price": 475.0912,
+      "commission": 1.0,
+      "pnl": 4565.09
+    },
+    {
+      "timestamp": "2023-06-05",
+      "symbol": "SPY",
+      "action": "BUY",
+      "shares": 60,
+      "price": 493.5734,
+      "commission": 1.0,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2023-06-08",
+      "symbol": "SPY",
+      "action": "SELL",
+      "shares": 60,
+      "price": 475.821,
+      "commission": 1.0,
+      "pnl": -1066.14
+    },
+    {
+      "timestamp": "2023-06-21",
+      "symbol": "SPY",
+      "action": "BUY",
+      "shares": 60,
+      "price": 487.3818,
+      "commission": 1.0,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2023-07-10",
+      "symbol": "SPY",
+      "action": "SELL",
+      "shares": 60,
+      "price": 464.7838,
+      "commission": 1.0,
+      "pnl": -1356.88
+    },
+    {
+      "timestamp": "2023-08-15",
+      "symbol": "AAPL",
+      "action": "SELL",
+      "shares": 219,
+      "price": 140.9947,
+      "commission": 1.09,
+      "pnl": 97.37
+    },
+    {
+      "timestamp": "2023-08-18",
+      "symbol": "SPY",
+      "action": "BUY",
+      "shares": 91,
+      "price": 451.1027,
+      "commission": 1.0,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2023-08-28",
+      "symbol": "SPY",
+      "action": "SELL",
+      "shares": 91,
+      "price": 435.6111,
+      "commission": 1.0,
+      "pnl": -1410.74
+    },
+    {
+      "timestamp": "2023-09-05",
+      "symbol": "AAPL",
+      "action": "BUY",
+      "shares": 274,
+      "price": 148.207,
+      "commission": 1.37,
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2023-09-11",
+      "symbol": "AAPL",
+      "action": "SELL",
+      "shares": 274,
+      "price": 141.9445,
+      "commission": 1.37,
+      "pnl": -1717.29
+    }
+  ]
+}
